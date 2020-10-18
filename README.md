@@ -18,10 +18,10 @@ The Renderer uses Forward Plus Rendering, the Renderer is currently set to shade
 Adjust this in the VulkanApplication file as required. WASD is used for movement and Q,E are used to change direction.
 
 
-![SS1](Screenshots/FP1.png)
-![SS2](Screenshots/FP2.png)
-![SS3](Screenshots/FP3.png)
-![SS4](Screenshots/FP4.png)
+![SS1](/Screenshots/FP1.PNG)
+![SS2](/Screenshots/FP2.PNG)
+![SS3](/Screenshots/FP3.PNG)
+![SS4](/Screenshots/FP4.PNG)
 
 ###Please Extract the libraries in the dependancies folder to run the project
 
