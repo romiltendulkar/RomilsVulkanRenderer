@@ -22,6 +22,7 @@ Adjust this in the VulkanApplication file as required. WASD is used for movement
 ![SS2](/Screenshots/FP2.PNG)
 ![SS3](/Screenshots/FP3.PNG)
 ![SS4](/Screenshots/FP4.PNG)
+![Gif](/Screenshots/GIF.gif)
 
 ###Please Extract the libraries in the dependancies folder to run the project
 
