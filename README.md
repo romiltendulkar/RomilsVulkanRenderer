@@ -12,7 +12,7 @@
 
 The Vulkan SDK used for the project was the LunarG SDK.
 
-I have used the Sponza Model by NVIDIA for testing and presentation.
+I have used the Sponza Model for testing and presentation.
 
 The Renderer uses Forward Plus Rendering, the Renderer is currently set to shade using 10,000 point lights.
 Adjust this in the VulkanApplication file as required. WASD is used for movement and Q,E are used to change direction.
